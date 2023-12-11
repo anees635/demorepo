@@ -1,3 +1,3 @@
 # demorepo
 this is my first repo for practise.
-<br>Author Muhammad anees and zara
+<br>Author Muhammad anees 
